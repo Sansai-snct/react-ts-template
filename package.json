@@ -1,5 +1,6 @@
 {
   "name": "vite-emotion-typescript",
+  "license": "MIT",
   "babelMacros": {
     "twin": {
       "preset": "emotion"
